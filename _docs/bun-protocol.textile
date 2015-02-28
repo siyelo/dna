@@ -8,7 +8,7 @@ h1. The Bun Protocol
 
 The Bun protocol ("Bullprotokollet" in Swedish) is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
 
-bq. We introduced this to Crisp a few years ago because we had just created a lightweight recruitment process, and later when we were creating a lightweight sales process we noticed many similarities. So we did an "extract to interface":http://sourcemaking.com/refactoring/extract-interface refactoring and created this "Bun Protocol" :o)
+bq. We introduced this to Siyelo a few years ago because we had just created a lightweight recruitment process, and later when we were creating a lightweight sales process we noticed many similarities. So we did an "extract to interface":http://sourcemaking.com/refactoring/extract-interface refactoring and created this "Bun Protocol" :o)
 
 h2. The metaphor
 
@@ -27,7 +27,7 @@ h2. How the protocol works
 
 A bun is born when someone asks you for something and you decide that "hey, this is a bun". Typically through email, but sometimes a phone call or a conference mingle.
 
-*A bun always has an owner* - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while the "office team":office-team.html is responsible for requests to info@crisp.se, etc.
+*A bun always has an owner* - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while the "office team":office-team.html is responsible for requests to info@siyelo.com, etc.
 
 *When you have a bun, you are responsible for taking care of it before it gets too dry!* Preferably within 1 working day, definitely within 2.
 
@@ -90,7 +90,7 @@ h3. What if it is a business-critical request? Shouldn't some central authority 
 
 The closest thing we have to a central authority is the "board":board.html, and our business developer. If one of them received the request then, well, they already have it.
 
-What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Crispers (or even external partners that have bought into this protocol) and ask who wants to take it.
+What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Siyeloers (or even external partners that have bought into this protocol) and ask who wants to take it.
 
 But don't forget - the bun is still yours until someone else explicitly takes it from you!
 
