@@ -8,9 +8,9 @@ h1. How Siyelo works
 
 Our second A3 is called "Siyelo strategy" but it's really more about how we operate:
 
-!../assets/SiyeloStrategyA3-sv.jpg(Siyelo Strategy A3)!
+!../assets/SiyeloStrategyA3-en.png(Siyelo Strategy A3)!
 
-It hangs on the wall next to the "What is Siyelo":what-is-siyelo.html A3. Here's an "english translation":../assets/SiyeloStrategyA3-en.pdf of the pic. Summarized below:
+It hangs on the wall next to the "What is Siyelo":what-is-siyelo.html A3. Summarized below:
 
 h2. What do we measure?
 
