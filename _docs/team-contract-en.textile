@@ -2,7 +2,7 @@
 title: Team contract, English translation
 ---
 
-h1. Crisp Team Contract
+h1. Siyelo Team Contract
 
 Hey you! Yes, you. Do you speak Swedish and English? If so it would awesome if you could translate the "team contract":team-contract-sv.html to English, so we could put it here.
 
