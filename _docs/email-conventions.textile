@@ -22,7 +22,7 @@ So OBS is basically an announcement. Everyone should read it, but no response is
 
 Examples:
 * OBS: Date for next conference
-* OBS: New Siyelolet started
+* OBS: New Cabal started
 
 h2. RAR = "Read and respond!"
 

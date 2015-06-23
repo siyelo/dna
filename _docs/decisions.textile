@@ -27,7 +27,7 @@ Instead, we follow these principles/guidelines:
 * *The person driving an issue owns the decision process.*
 * *A decision is only a decision if there is a “puller” who follows up on the execution.* (we use the term "driver" and "puller" interchangeably)
 * *Important decisions should be documented in our "decision log":dashboard.html and emailed to everyone* 
-* Some decisions lead to funded “projects”, like our new website. The people involved in something like that form a Siyelolet. To get funding, there needs to be two “pullers” throughout the whole project. In practice, we seldom have big projects and rarely need to use this model.
+* Some decisions lead to funded “projects”, like our new website. The people involved in something like that form a Cabal. To get funding, there needs to be two “pullers” throughout the whole project. In practice, we seldom have big projects and rarely need to use this model.
 
 *Example:* If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
 

@@ -79,7 +79,7 @@ This is where our "explicitly stated core values":what-is-siyelo.html come into 
 This reasoning always leads us to the same conclusion:
 * *Compromise*: "Some people want a shared insurance, some don't. Therefore we won't force it upon everyone. Instead, those individuals who want an insurance (and are willing to pay for it) can get together and form one together. That way, insurance is opt-in."
 
-So anyone who wants to do risk-pooling is free to propose a model and see if anyone wants to join, but insurance isn't owned or managed by Siyelo. Perfect case for a "Siyelolet":crisplets.html.
+So anyone who wants to do risk-pooling is free to propose a model and see if anyone wants to join, but insurance isn't owned or managed by Siyelo. Perfect case for a "Cabal":cabals.html.
 
 Interestingly enough, no such generic insurance has been created yet, because nobody has managed to define a model that is good enough to attract a critical mass of participants.
 

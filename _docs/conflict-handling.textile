@@ -1,6 +1,6 @@
 ---
 title: Conflict handling
-prev_section: crisplets.html
+prev_section: cabals.html
 next_section: contracts.html
 ---
 
