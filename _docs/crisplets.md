@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Siyelolets
 prev_section: hack-summit.html
 next_section: conflict-handling.html

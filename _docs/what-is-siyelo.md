@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: “What is Siyelo?”
 prev_section: index.html
 next_section: how-siyelo-works.html
@@ -10,7 +10,7 @@ next_section: how-siyelo-works.html
 Our purpose is summarized in this A3. We refer to this as “our home” or
 “our house”.
 
-![What is Siyelo](../assets/WhatIsCrispA3-sv.jpg "What is Siyelo")
+![What is Siyelo](../assets/crisp/WhatIsCrispA3-sv.jpg "What is Siyelo")
 
 It hangs on the wall in our office, and we bring it to our conferences
 so it can be easily updated (it’s written in pencil…). Here’s what it

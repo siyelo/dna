@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Brand building
 prev_section: courses-and-event-production.html
 next_section: how-to-copy.html

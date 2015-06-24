@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Decision making
 prev_section: economic-model.html
 next_section: recruiting.html
@@ -165,15 +165,15 @@ actual decision as well, since everyone is there :)
 
 So, decision making can look like this:
 
-![small decision](../assets/TwoPeopleTalking.jpg "small decision")
+![small decision](../assets/crisp/TwoPeopleTalking.jpg "small decision")
 
 … or like this, for slightly bigger issues:
 
-![medium decision](../assets/SmallGroupTalking.jpg "medium decision")
+![medium decision](../assets/crisp/SmallGroupTalking.jpg "medium decision")
 
 … or like this, for big issues that affect everyone:
 
-![big decision](../assets/BigGroupTalking.jpg "big decision")
+![big decision](../assets/crisp/BigGroupTalking.jpg "big decision")
 
 > This was the meeting where we decided to remove the CEO role. For a
 > few years we’d had a rotating CEO role, time-boxed to 30% of

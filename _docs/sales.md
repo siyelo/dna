@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Sales
 prev_section: visions.html
 next_section: unconference.html

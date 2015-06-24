@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Our visions
 prev_section: our-business.html
 next_section: sales.html
@@ -43,7 +43,7 @@ We’re guided by these principles (which we agreed upon on one of our
     “stand aside” (see our [hand signals](hand-signals.html)).
 
 Here is how we decided on these two particular missions:
-![How we identified our visions](../assets/Visions.jpg "How we identified our visions")
+![How we identified our visions](../assets/crisp/Visions.jpg "How we identified our visions")
 
 It was a standing vote, where people could move their avatars to show
 their stance on each of the suggested vision statements. As discussion

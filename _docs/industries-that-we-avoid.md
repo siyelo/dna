@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Industries that we avoid
 prev_section: hand-signals.html
 next_section: hack-summit.html

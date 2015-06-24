@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Unconference
 prev_section: sales.html
 next_section: email-conventions.html
@@ -101,7 +101,7 @@ the general idea):
         hour! That’s fine, although in that case you might want to move
         your group out of the way, to make space for the next group.
 
-![Open space principles](../assets/Unconference-Principles.jpg "Open space principles")
+![Open space principles](../assets/crisp/Unconference-Principles.jpg "Open space principles")
 
 ## What’s the conference format?
 
@@ -120,7 +120,7 @@ Here’s a summary of what we typically do on a conference day:
 
 ### 1. Do some lightning talks, or short team-building activities to get everyone inspired
 
-![Lightning talks](../assets/Unconference-LightningTalk.jpg "Lightning talks")
+![Lightning talks](../assets/crisp/Unconference-LightningTalk.jpg "Lightning talks")
 
 ### 2. Present the format and Brainstorm topics
 
@@ -128,7 +128,7 @@ Gather everyone in a ring. Present the open space format & today’s theme
 (sometimes we have a theme, sometimes not). Show the empty schedule
 grid, and ask people to suggest topics and write on stickies.
 
-![Kicking off the open space](../assets/Unconference-BigRing.jpg "Kicking off the open space")
+![Kicking off the open space](../assets/crisp/Unconference-BigRing.jpg "Kicking off the open space")
 
 ### 3. Create a schedule
 
@@ -137,7 +137,7 @@ grid. Left-to-right are all the locations in the room, and up-to-down
 are all the time slots (usually 30-60 minutes each). And a small section
 to capture “mini-topics” for when we all gather at the end.
 
-![Creating the schedule grid](../assets/Unconference-Schedule.jpg "Creating the schedule grid")
+![Creating the schedule grid](../assets/crisp/Unconference-Schedule.jpg "Creating the schedule grid")
 
 ### 4. Breakouts!
 
@@ -147,7 +147,7 @@ and unplanned topics are going to pop up here and there. Let people
 self-organize for the next few hours, using the Law of 2 Feet. Make sure
 there is plenty of snacks, fruit, coffee & drink around.
 
-![Breakout sessions](../assets/Unconference-Breakouts.jpg "Breakout sessions")
+![Breakout sessions](../assets/crisp/Unconference-Breakouts.jpg "Breakout sessions")
 
 ### 5. Gather up for summaries and decisions
 
@@ -160,7 +160,7 @@ gathered.
 We have a [consensus-based decision model](decisions.html) and make
 diligent use of [hand signals](hand-signals.html).
 
-![Summaries and Decisions](../assets/Unconference-Summary.jpg "Summaries and Decisions")
+![Summaries and Decisions](../assets/crisp/Unconference-Summary.jpg "Summaries and Decisions")
 
 Finally we wrap up by asking people to share their key take-aways from
 the day.

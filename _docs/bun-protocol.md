@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Bun protocol
 prev_section: communication.html
 next_section: dashboard.html
@@ -15,7 +15,7 @@ requests.
 
 ## The metaphor
 
-![Sia's Home baked Kanelbulle! Yum!](../assets/Bun.jpg "Sia's Home baked Kanelbulle! Yum!")
+![Sia's Home baked Kanelbulle! Yum!](../assets/crisp/Bun.jpg "Sia's Home baked Kanelbulle! Yum!")
 
 When a bun (= issue or request) comes in it is warm, juicy and soft. If
 it sits around for a day it will get cold. If it sits around several

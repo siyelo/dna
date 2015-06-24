@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: How Siyelo works
 prev_section: what-is-siyelo.html
 next_section: why-this-works.html
@@ -10,7 +10,7 @@ next_section: why-this-works.html
 Our second A3 is called “Siyelo strategy” but it’s really more about how
 we operate:
 
-![Siyelo Strategy A3](../assets/SiyeloStrategyA3-en.png "Siyelo Strategy A3")
+![Siyelo Strategy A3](../assets/crisp/SiyeloStrategyA3-en.png "Siyelo Strategy A3")
 
 It hangs on the wall next to the [What is Siyelo](what-is-siyelo.html)
 A3. Summarized below:
@@ -55,7 +55,7 @@ See [Economic model](economic-model.html) for concrete examples.
 
 This picture sums it up:
 
-![What do we do with the money](../assets/WhatDoWeDoWithTheMoney.png "What do we do with the money")
+![What do we do with the money](../assets/crisp/WhatDoWeDoWithTheMoney.png "What do we do with the money")
 
 The guiding principles are:
 

@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Email conventions
 prev_section: unconference.html
 next_section: hand-signals.html

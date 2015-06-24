@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Happiness Index
 prev_section: why-this-works.html
 next_section: ownership-model.html
@@ -11,7 +11,7 @@ Our primary metric is the “Siyelo Happiness Index”. It’s the only thing
 we systemically measure and follow up. Scale is 1-5. The data lives in
 our [dashboard](dashboard.html) (a shared Google spreadsheet).
 
-![Happiness History](../assets/HappinessIndex.png "Happiness History"):https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE
+![Happiness History](../assets/crisp/HappinessIndex.png "Happiness History"):https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE
 
 Here’s an [example &
 template](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE),
@@ -117,7 +117,7 @@ to the history table, and the history chart gets updated.
 
 Here’s our actual happiness history 2008-2014:
 
-![Happiness History](../assets/HappinessHistory.png "Happiness History")
+![Happiness History](../assets/crisp/HappinessHistory.png "Happiness History")
 
 Very useful to spot trends! We’re usually around 4, our all-time low is
 2.7 (a temporary dip in early 2010 when we had a bad conflict), and our

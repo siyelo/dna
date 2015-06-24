@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Our business
 prev_section: board.html
 next_section: visions.html
@@ -46,7 +46,7 @@ make noise together!
 
 ## Seal consultants
 
-![Seal consultant](/assets/seal-500.jpg "Seal consultant"):https://www.flickr.com/photos/guano/3604967875/
+![Seal consultant](/assets/crisp/seal-500.jpg "Seal consultant"):https://www.flickr.com/photos/guano/3604967875/
 
 A Seal is faithful and dedicated to one single client pretty much
 full-time. The Seal consultant takes a deep breath, dives in, and then
@@ -68,7 +68,7 @@ Seals are usually cute and playful.
 
 ## Albatross consultants
 
-![Albatross consultant](/assets/albatross-500.jpg "Albatross consultant"):https://www.flickr.com/photos/chrispearson72/2376692375/
+![Albatross consultant](/assets/crisp/albatross-500.jpg "Albatross consultant"):https://www.flickr.com/photos/chrispearson72/2376692375/
 
 Some of us are Albatross consultants. We sail around high in the sky and
 travel great distances. Once in a while we plunge into the water and
@@ -92,7 +92,7 @@ absent-minded and noisy.
 
 ## Duck consultants
 
-![Duck consultant](/assets/duck-500.jpg "Duck consultant"):https://www.flickr.com/photos/pitts-pics/5644549966/
+![Duck consultant](/assets/crisp/duck-500.jpg "Duck consultant"):https://www.flickr.com/photos/pitts-pics/5644549966/
 
 Some of us are Duck consultants – a compromise between the Seal and the
 Albatross.
@@ -111,7 +111,7 @@ surface they are paddling furiously!
 
 ## Anglerfish consultants
 
-![Anglerfish consultant](/assets/anglerfish-500.jpg "Anglerfish consultant"):https://www.flickr.com/photos/23629083@N03/15377775448/
+![Anglerfish consultant](/assets/crisp/anglerfish-500.jpg "Anglerfish consultant"):https://www.flickr.com/photos/23629083@N03/15377775448/
 
 Some of us used to be Anglerfish consultants before joining Siyelo.
 

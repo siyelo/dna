@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Contracts
 prev_section: conflict-handling.html
 next_section: building-competence.html

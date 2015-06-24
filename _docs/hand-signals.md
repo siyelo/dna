@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Hand signals
 prev_section: email-conventions.html
 next_section: industries-that-we-avoid.html
@@ -28,17 +28,17 @@ something):
 
 ### Thumb up = Yes! I actively support this.
 
-![](../assets/HandSignal-Yes.png)
+![](../assets/crisp/HandSignal-Yes.png)
 
 ### Thumb sideways = More discussion needed, I’m missing info.
 
-![](../assets/HandSignal-Discuss.png)
+![](../assets/crisp/HandSignal-Discuss.png)
 
 This doesn’t mean I disagree, it just means that I need clarification.
 
 ### Thumb down = No! I block this. But I’m willing to discuss.
 
-![](../assets/HandSignal-No.png)
+![](../assets/crisp/HandSignal-No.png)
 
 This means I understand the proposal, but I don’t support it. Obviously
 I need to be willing to explain why. Sometimes the No is pretty
@@ -47,7 +47,7 @@ way, further discussion is needed before we can decide.
 
 ### Fist forward = I stand aside. I don’t need to be involved. Do whatever you want.
 
-![](../assets/HandSignal-StandAside.png)
+![](../assets/crisp/HandSignal-StandAside.png)
 
 Not all decisions affect everyone, so the fist-forward signal
 essentially gives the rest of the group permission to decide without me.
@@ -69,7 +69,7 @@ circle arguing about a pending decision or new idea!
 
 ### One hand up = I want to speak (put me in line)
 
-![](../assets/HandSignal-Speak.png)
+![](../assets/crisp/HandSignal-Speak.png)
 
 If you have something to say, and someone else is already speaking, and
 others seem to want to talk too, then put your hand up and wait your
@@ -77,7 +77,7 @@ turn.
 
 ### Two hands up = I have an important fact (let me me speak ASAP!)
 
-![](../assets/HandSignal-Fact.png)
+![](../assets/crisp/HandSignal-Fact.png)
 
 Sometimes you have a short concise piece of information that everyone
 should take into account before continuing the conversation (or making
@@ -86,7 +86,7 @@ that case two hands up puts you first in the speaking queue.
 
 ### Circling finger = +1 (I agree with what I’m hearing right now)
 
-![](../assets/HandSignal-Agree.png)
+![](../assets/crisp/HandSignal-Agree.png)
 
 The circling finger is a silent way of saying “Amen bro![]() I’m right
 wit’cha on dat!”
@@ -128,7 +128,7 @@ See [How we make decisions](decisions.html) for more info on this.
 The hand signals can be useful without actual hands too! For example we
 used a multi-voting technique to decide on our [visions](visions.html):
 
-![](../assets/HandSignals-MultivotingChart.png)
+![](../assets/crisp/HandSignals-MultivotingChart.png)
 
 Each column was a proposed vision statement, with all names underneath
 on sticky-notes. People could move their names up and down into the
@@ -139,7 +139,7 @@ The people in the “No” boxes were asked to explain their objection - do
 they dislike the vision itself, or just how it is phrased? The people in
 the “Discuss” were invited to ask questions for clarification.
 
-![](../assets/HandSignals-MultivotingPeople.png)
+![](../assets/crisp/HandSignals-MultivotingPeople.png)
 
 We used the input to continuously tweak the vision statements, and by
 the end of the conference we had [two vision statements](visions.html)

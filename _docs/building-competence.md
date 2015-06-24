@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Building competence
 prev_section: contracts.html
 next_section: courses-and-event-production.html

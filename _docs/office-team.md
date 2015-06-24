@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Office team
 prev_section: dashboard.html
 next_section: board.html

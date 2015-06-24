@@ -1,7 +1,6 @@
 ---
-
+layout: page
 title: Why this works well for us
-
 prev_section: how-siyelo-works.html
 next_section: happiness-index.html
 ---
@@ -19,7 +18,7 @@ But why? Why is this working for us? Here is our guess, illustrated
 using a [cause-effect
 diagram](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
 
-![WhyItWorks](../assets/WhyItWorks.png "WhyItWorks")
+![WhyItWorks](../assets/crisp/WhyItWorks.png "WhyItWorks")
 
 The key thing is the two loops - positive feedback cycles that keep
 getting stronger and stronger.

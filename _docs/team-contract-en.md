@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Team contract, English translation
 ---
 

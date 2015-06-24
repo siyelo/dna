@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Board of directors
 prev_section: office-team.html
 next_section: our-business.html

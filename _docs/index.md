@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Siyelo DNA
 next_section: what-is-siyelo.html
 ---

@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Dashboard
 prev_section: bun-protocol.html
 next_section: office-team.html

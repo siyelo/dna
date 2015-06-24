@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Communication
 prev_section: recruiting.html
 next_section: bun-protocol.html

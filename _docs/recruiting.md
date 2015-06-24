@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Recruitment
 prev_section: decisions.html
 next_section: communication.html

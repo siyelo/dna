@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Conflict handling
 prev_section: crisplets.html
 next_section: contracts.html

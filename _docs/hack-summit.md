@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: “Hack Summit”
 prev_section: industries-that-we-avoid.html
 next_section: crisplets.html

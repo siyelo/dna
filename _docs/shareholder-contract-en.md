@@ -1,5 +1,5 @@
 ---
-
+layout: page
 title: Shareholder contract, English translation
 ---
 
