@@ -13,21 +13,21 @@ it more clear.
 
 ## Example: One month
 
-Suppose Joe is a Siyelo consultant, and his current client is Innitech.
+Suppose Joe is a Siyelo consultant, and his current client is Initech.
 Joe’s consulting fee is €100 per hour. And suppose the current Siyelo
 fee is 10% + €500/month.
 
-1.  During January, Joe does 100 hours of work for Innitech.
+1.  During January, Joe does 100 hours of work for Initech.
 2.  At the end of January, Joe adds one row to the invoicing spreadsheet
     (a single shared Google doc for everyone at Siyelo), noting that
-    Innitech should be invoiced €10,000 for January.
+    Initech should be invoiced €10,000 for January.
 3.  The [office team](office-team.html) sends a €10,000 invoice from
-    Siyelo to Innitech, for Joe’s services.
+    Siyelo to Initech, for Joe’s services.
 4.  Joe sends a €9,000 invoice from his personal company to Siyelo
     (€10,000 minus the 10% Siyelo “tax”).
 
 **Result for January:**
-Innitech pays €10,000, Joe earns €9,000, Siyelo earns €1,000.
+Initech pays €10,000, Joe earns €9,000, Siyelo earns €1,000.
 
 In addition, once per quarter Siyelo will send a €1500 invoice to Joe’s
 company (3 x €500, the monthly fixed fee).
@@ -39,15 +39,15 @@ So let’s put it all together.
 Suppose Joe earns the same amount as above, every month for a year. In
 that case the net result is:
 
--   Innitech paid €120,000 for Joe’s services (€10,000 x 12 months)
--   Joe earned €108,000 for his work at Innitech (90% of the income
-    from Innitech)
--   Siyelo earned €12,000 from Joe’s work at Innitech (10% of the income
-    from Innitech)
+-   Initech paid €120,000 for Joe’s services (€10,000 x 12 months)
+-   Joe earned €108,000 for his work at Initech (90% of the income
+    from Initech)
+-   Siyelo earned €12,000 from Joe’s work at Initech (10% of the income
+    from Initech)
 -   In addition, Joe paid €6000 to Siyelo in fixed fees (€500 x
     12 months)
 -   **Result for the year:**
-    -   Innitech: -€120,000
+    -   Initech: -€120,000
     -   Joe: +€102,000
     -   Siyelo: +€18,000
 
