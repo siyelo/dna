@@ -2,6 +2,7 @@
 layout: page
 title: Siyelo DNA
 next_section: what-is-siyelo.html
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
 
 # What is this?
