@@ -1,9 +1,8 @@
-<div>
-  <aside>
-    <h4><a href=".">Home</a></h4>
+<div class="site-map">
     {% for section in site.data.docs %}
-    <h4>{{ section.title }}</h4>
-    {% include docs_ul.html items=section.docs %}
+      <div class="col {{section.title}}">
+        <h4>{{ section.title }}</h4>
+        {% include docs_ul.html items=section.docs %}
+      </div>
     {% endfor %}
-  </aside>
 </div>
