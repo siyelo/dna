@@ -1,18 +1,37 @@
 <div class="section-nav">
-  <div class="left align-right">
-    {% if page.prev_section != null %}
-      <a href="/docs/{{ page.prev_section }}" accesskey="b" class="prev">&laquo; Back</a>
-    {% else %}
-      <span class="prev disabled">&laquo; Back</span>
-    {% endif %}
-  </div>
-  <div class="right align-left">
-    {% if page.next_section != null %}
-      <a href="/docs/{{ page.next_section }}" accesskey="n" class="next">Next &raquo;</a>
-    {% else %}
-      <span class="next disabled">Next &raquo;</span>
-    {% endif %}
-  </div>
+  <ul class="page-pager">
+    <li>
+      <a href="/" class="bttn-pager">
+        <span class="fa fa-th"></span>
+        All
+      </a>
+    </li>
+    <li class="left align-right">
+      {% if page.prev_section != null %}
+        <a href="/docs/{{ page.prev_section }}" accesskey="b" class="prev bttn-pager">
+          <span class="fa fa-angle-left"></span>
+          Back
+        </a> 
+      {% else %}
+        <span class="prev disabled bttn-pager">
+          <span class="fa fa-angle-left"></span>
+          Back
+        </span> 
+      {% endif %}
+    </li>
+    <li class="right align-left">
+      {% if page.next_section != null %}
+        <a href="/docs/{{ page.next_section }}" accesskey="n" class="next bttn-pager">
+          Next 
+          <span class="fa fa-angle-right"></span>
+        </a>
+      {% else %}
+        <span class="next disabled bttn-pager">
+          Next
+          <span class="fa fa-angle-right"></span>
+        </span> 
+      {% endif %}
+    </li>
+  </ul>
   <div class="clear"></div>
 </div>
-

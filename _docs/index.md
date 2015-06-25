@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: landing_page
 title: Siyelo DNA
+subtitle: "The inner workings of a rather different consulting company"
 next_section: what-is-siyelo.html
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+image: /assets/images/background_image.jpg
 ---
 
 # What is this?
@@ -10,11 +11,11 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 This site is an [open-source](http://en.wikipedia.org/wiki/Open_source)
 site describing how Siyelo works and why.
 
-[Siyelo](https://www.siyelo.com) is a consulting company based in
-Stockholm, Sweden. But we aren’t a very typical consulting company. For
+[Siyelo](https://www.siyelo.com) is a distributed consulting company with presences 
+in the UK, Germany, South Africa and Australia. But we aren’t a very typical consulting company. For
 example:
 
--   None of the 30+ consultants are actually employed by Siyelo 
+-   None of the 10+ consultants are actually employed by Siyelo 
     (although we do have a few employed office staff).
 -   We have no managers, not even a CEO. Instead we rely on
     self-organization and transparency. Almost everything is bottom-up,
