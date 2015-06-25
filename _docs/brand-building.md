@@ -75,8 +75,8 @@ staff turnover is virtually zero.
 We believe consulting doesn’t have to be a [market for
 lemons](http://blog.crisp.se/2010/10/20/matshenricson/konsultmarknaden_behver_inte_vara_en_market_for_lemons)
 and our philosophy is to be as transparent as possible. You will never
-be assigned an anonymous consultant from Siyelo - it will always be Lars
-or Anna, individuals. Our CVs all look different, which may seem
+be assigned an anonymous consultant from Siyelo - it will always be Chris 
+or Kevin, individuals. Our CVs all look different, which may seem
 unprofessional, but we will always be individuals under the same
 umbrella.
 
