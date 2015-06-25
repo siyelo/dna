@@ -668,7 +668,7 @@ pre
 
 
 .page-pager 
-  margin: 0 0.25rem
+  margin: 2rem 2.1rem 
   display: inline-block
   list-style: none
 
@@ -762,3 +762,74 @@ pre
     padding: 0
     position: absolute
     width: 1px
+
+
+.page-actions
+  *zoom: 1
+  float: left
+  clear: none
+  text-align: inherit
+  width: 100%
+  margin-left: 0%
+  margin-right: 0%
+
+.page-actions:before, .page-actions:after
+  content: ''
+  display: table
+
+.page-actions:after
+  clear: both
+
+@media (min-width: 768px) 
+  .page-actions
+    *zoom: 1
+    float: left
+    clear: none
+    text-align: inherit
+    width: 83.33333%
+    margin-left: 8.33333%
+    margin-right: 0%
+  
+  .page-actions:before, .page-actions:after
+    content: ''
+    display: table
+  
+  .page-actions:after
+    clear: both
+  
+
+@media (min-width: 992px) 
+  .page-actions
+    *zoom: 1
+    float: left
+    clear: none
+    text-align: inherit
+    width: 75%
+    margin-left: 12.5%
+    margin-right: 0%
+  
+  .page-actions:before, .page-actions:after
+    content: ''
+    display: table
+  
+  .page-actions:after
+    clear: both
+  
+
+@media (min-width: 1200px) 
+  .page-actions
+    *zoom: 1
+    float: left
+    clear: none
+    text-align: inherit
+    width: 66.66667%
+    margin-left: 16.66667%
+    margin-right: 0%
+  
+  .page-actions:before, .page-actions:after
+    content: ''
+    display: table
+  
+  .page-actions:after
+    clear: both
+  
