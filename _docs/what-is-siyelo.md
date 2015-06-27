@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What is Siyelo?"
+title: What is Siyelo?
 prev_section: index.html
 next_section: how-siyelo-works.html
 ---

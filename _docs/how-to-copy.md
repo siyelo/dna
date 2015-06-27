@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How to clone the Siyelo DNA"
+title: How to clone the Siyelo DNA
 prev_section: brand-building.html
 next_section:
 ---
