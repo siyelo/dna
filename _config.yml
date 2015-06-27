@@ -11,3 +11,5 @@ collections:
 company_name: "Siyelo"
 title: "Siyelo DNA"
 description: "The inner workings of a rather different consulting company"
+url: "http://dna.siyelo.com" 
+baseurl: ""
