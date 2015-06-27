@@ -51,7 +51,7 @@ the Siyelolet.
     [Doctors Without Borders](http://www.msf.org) in their heroic battle
     against the pandemic. Instead of trying to drive consensus for a
     decision on this, one person formed a Siyelolet (one email was all
-    it took: “Let’s support Doctors Without Borders, who’s in?”). 9
+    it took: "Let’s support Doctors Without Borders, who’s in?"). 9
     people joined and pooled together a donation of EUR 9,000. Siyelo
     paid the donation, and then invoiced each participant individually.
     Pooling the donation into a single large payment made it easier to
@@ -69,7 +69,7 @@ the Siyelolet.
 The main benefit to forming a Siyelolet is that we reduce the need for
 centralized decision making, and maximize people’s economic freedom.
 
-But why Siyelolets at all? Can’t people just “huddle up and do it”?
+But why Siyelolets at all? Can’t people just "huddle up and do it"?
 True, but the Siyelolet model offer some advantages:
 
 -   **Transparency** - all Siyelolets are listed (at least the
@@ -122,7 +122,7 @@ The second case is very important, because it basically gives the
 micromanagement and administrative overhead. If 6 people get together to
 form a Siyelolet and their costs end up being just SEK 4820 to buy a
 license for a tool, then we probably won’t bother invoicing everyone.
-Think of it as our “yeah whatever” budget.
+Think of it as our "yeah whatever" budget.
 
 By waiving the debt, Siyelo can avoid unnecessary administration of
 costs that are clearly in the common interest, or clearly too small to

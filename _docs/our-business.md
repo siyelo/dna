@@ -36,7 +36,7 @@ those two areas. Some have one foot in each though.
 Also, there are some [industries that we
 avoid](industries-that-we-avoid.html).
 
-## Different “species” of Siyeloers
+## Different "species" of Siyeloers
 
 We sometimes use a funny animal metaphor to talk about different types
 of engagements. Most Siyeloers fall into one of these categories

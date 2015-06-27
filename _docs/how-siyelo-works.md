@@ -7,7 +7,7 @@ next_section: why-this-works.html
 
 # How Siyelo works
 
-Our second A3 is called “Siyelo strategy” but it’s really more about how
+Our second A3 is called "Siyelo strategy" but it’s really more about how
 we operate:
 
 ![Siyelo Strategy A3](../assets/crisp/SiyeloStrategyA3-en.png "Siyelo Strategy A3")
@@ -70,7 +70,7 @@ The guiding principles are:
 
 > **Why don’t we try to build financial value?** If Siyelo has a big
 > pile of money, that creates a financial incentive to own the company,
-> and increases the risk of conflict as the “value” of the company goes
+> and increases the risk of conflict as the "value" of the company goes
 > up and down. If we keep the company lean, with only a small liquidity
 > buffer, then we don’t need to argue about who owns what.
 

@@ -14,10 +14,10 @@ want Siyelo to be a [nice home for consultants](what-is-siyelo.html).
 However, many of the *people* at Siyelo do have a vision. Here are the
 most widely shared visions:
 
-**Vision 1: “Help companies benefit from Lean/Agile”**
+**Vision 1: "Help companies benefit from Lean/Agile"**
 
-**Vision 2: “Develop companies and organizations so the people there can
-be happy, improve, and create increasing value.”**
+**Vision 2: "Develop companies and organizations so the people there can
+be happy, improve, and create increasing value."**
 
 PS: that doesn’t mean we’re all coaches. In fact, most of us are
 developers. See [our business](our-business.html).
@@ -40,7 +40,7 @@ We’re guided by these principles (which we agreed upon on one of our
     everyone can discuss.
 -   The visions apply between the unconferences.
 -   If you miss an unconference, you are automatically considered to
-    “stand aside” (see our [hand signals](hand-signals.html)).
+    "stand aside" (see our [hand signals](hand-signals.html)).
 
 Here is how we decided on these two particular missions:
 ![How we identified our visions](../assets/crisp/Visions.jpg "How we identified our visions")
@@ -64,5 +64,5 @@ Two more principles:
 ## Does everyone have to agree with these visions?
 
 No. In fact, if you look at the photo above, at least 10 people voted
-“stand aside” for both visions. That means they are fine with that
+"stand aside" for both visions. That means they are fine with that
 vision, but personally have other priorities. And that’s perfectly fine.

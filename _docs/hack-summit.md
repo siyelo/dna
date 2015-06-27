@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “Hack Summit”
+title: "Hack Summit"
 prev_section: industries-that-we-avoid.html
 next_section: crisplets.html
 ---
@@ -10,7 +10,7 @@ next_section: crisplets.html
 Siyelo Hack Summit is a 2-day event where we meet up at a off-site
 location and hack on pet projects and similar.
 
-Hack Summit gives everyone an\\“\\” opportunity to:
+Hack Summit gives everyone an\\"\\" opportunity to:
 
 -   learn and evaluate new technology
 -   hear about other experiences of techniques and tools
@@ -21,8 +21,8 @@ Hack Summit gives everyone an\\“\\” opportunity to:
 
 ## Why is it called Siyelo Hack Summit?
 
-We like the combination of the slightly unserious “Hack” and the quite
-pretentious “Summit”.
+We like the combination of the slightly unserious "Hack" and the quite
+pretentious "Summit".
 
 ## Purpose
 

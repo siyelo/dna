@@ -1,14 +1,14 @@
 ---
 layout: page
-title: “What is Siyelo?”
+title: "What is Siyelo?"
 prev_section: index.html
 next_section: how-siyelo-works.html
 ---
 
 # What is Siyelo and why?
 
-Our purpose is summarized in this A3. We refer to this as “our home” or
-“our house”.
+Our purpose is summarized in this A3. We refer to this as "our home" or
+"our house".
 
 ![What is Siyelo](../assets/crisp/WhatIsCrispA3-sv.jpg "What is Siyelo")
 
@@ -33,7 +33,7 @@ Basically, we’re trying to find the magic balance between being an
 independent consultant (full freedom, no support), and being an employee
 (little freedom, lots of support).
 
-In geek-terms, Siyelo is a “runtime environment for consultants” :o)
+In geek-terms, Siyelo is a "runtime environment for consultants" :o)
 
 Here’s the [story of how Crisp came up with this
 A3](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000).

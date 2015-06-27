@@ -12,8 +12,8 @@ Mellan:
 har denna dag träffats följande aktieägaravtal.
 
 Parterna till detta avtal (ursprungliga och tillkommande) benämns nedan
-var och en för sig för ”part” eller ”aktieägare” och tillsammans för
-”parter” eller ”aktieägare”.
+var och en för sig för "part" eller "aktieägare" och tillsammans för
+"parter" eller "aktieägare".
 
 ## 1. BOLAGETS VERKSAMHET M.M.
 

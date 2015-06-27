@@ -11,7 +11,7 @@ Siyelo consultants mostly sell themselves and each other. Most of our
 sales is reactive (clients contacting us) rather than proactive (us
 contacting clients). That’s why we don’t have a sales department
 (although we do have a business developer, explained further down) - our
-strong [brand](brand-building.html) minimizes the need to “chase”
+strong [brand](brand-building.html) minimizes the need to "chase"
 clients.
 
 As a consultant or contractor, timing is a huge challenge. How likely is
@@ -35,7 +35,7 @@ And it works pretty OK without any kind of central control :o)
 See the [bun protocol](bun-protocol.html) page for answers to that and
 many similar questions about how we route clients internally.
 
-## Do we have a “finders fee” for finding client gigs for each other?
+## Do we have a "finders fee" for finding client gigs for each other?
 
 Nope. If you pass a client on to a colleague, you won’t earn a provision
 or finder’s fee or anything like that. Why? Because the underlying
@@ -44,20 +44,20 @@ is to maximize [happiness](happiness-index.html). We earn money from our
 clients, not from each other.
 
 > Once upon a time, we actually did have a finder’s fee model. Each
-> client had an “owner” (the person who was first contacted by the
+> client had an "owner" (the person who was first contacted by the
 > client, or the person who first started working with that client), and
 > we had a spreadsheet to keep track of which consultant owned which
 > client. If other consultants work with that client, they had to pay
-> 10% of their revenue to the “owner”. After a few years we realized
+> 10% of their revenue to the "owner". After a few years we realized
 > that this model wasn’t helping us at all. It was just causing a bunch
-> of bureaucracy, sub-optimization, and confusion. Who “owns” a huge
+> of bureaucracy, sub-optimization, and confusion. Who "owns" a huge
 > client like Ericsson? Do I still count as owner for client X if they
 > get bought by client Y? Is ownership permanent or time-limited, and if
-> so how do I “renew” it? Needless to say, we dumped the model many
+> so how do I "renew" it? Needless to say, we dumped the model many
 > years ago and haven’t missed it one bit. Instead the guiding principle
-> is “what goes around, comes around”. Today I give you a client,
+> is "what goes around, comes around". Today I give you a client,
 > tomorrow someone else gives me a client, and over time it more or less
-> evens out. 100% “fairness” just isn’t worth pursuing.
+> evens out. 100% "fairness" just isn’t worth pursuing.
 
 ## What about the business developer role?
 
@@ -112,7 +112,7 @@ No formal powers at all! Although, like with all Siyeloers, there’s
 plenty of *informal power* to go around :o)
 
 In more typical consulting companies, sales people and business
-developers “own” their “resources” and can move and allocate them to
+developers "own" their "resources" and can move and allocate them to
 clients as needed. At Siyelo, however, we have no managers; people are
 people (not resources) and are free to do whatever they want! Since the
 business developer can’t force anyone to do anything, she needs to work

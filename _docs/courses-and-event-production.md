@@ -21,14 +21,14 @@ they do so they implicitly take on the Producer role for that course.
 Driving principles:
 
 -   Each course or event has a Producer
--   As Producer, you “own” the course. You are responsible for the
+-   As Producer, you "own" the course. You are responsible for the
     course as whole, including course design, quality, marketing, etc.
 -   As Producer, you use the Siyelo Calendar (a shared Google calendar)
     to book the classroom and make sure there isn’t a conflict.
 -   As Producer, you own the financial result of your course (win
     or loss). Just like with consulting, Siyelo retains X% of your
     profit (see [economic model](economic-model.html)).
--   Siyelo’s role is to be the “platform”, providing things such as a
+-   Siyelo’s role is to be the "platform", providing things such as a
     classroom (we have a classroom at our office in Stockholm), onsite
     assistance (serving coffee & snacks, etc) and lots of administrative
     support (invoices, lunch reservation, email communication,
@@ -39,8 +39,8 @@ Driving principles:
     of the office and all administrative support.
 
 The Producer doesn’t necessarily have to teach the course (although
-that’s the most common case). Sometimes a producer will invite a “star”
-(someone outside of Siyelo who is a well-known “guru” within his/her
+that’s the most common case). Sometimes a producer will invite a "star"
+(someone outside of Siyelo who is a well-known "guru" within his/her
 field) and host or co-teach a course.
 
 ## Example
@@ -49,8 +49,8 @@ Here’s a high-level summary of what happens with a typical course:
 
 1.  Joe decides to teach an Agile Engineering course.
 2.  Joe opens the Siyelo calendar on Google, finds an open slot Feb
-    12-13, and writes “LOKAL: Agile Engineering course (Joe)”. (LOKAL
-    means “venue” in Swedish, our convention for booking different parts
+    12-13, and writes "LOKAL: Agile Engineering course (Joe)". (LOKAL
+    means "venue" in Swedish, our convention for booking different parts
     of the office)
 3.  Joe asks the [office team](office-team.html) to set up a
     registration page. He has taught this course before, so they
@@ -95,10 +95,10 @@ We also do a lot of pair-teaching and informal visits to each other’s
 courses. As a result, we gradually improve all the time! Nowadays most
 courses have NPS &gt;70%, the best ones consistently get 80-90%,
 sometimes even 100%! Almost none get below 30%. And it shows too - we
-often hear things like “I signed up for this course because my colleague
-insisted I should go!” Participants also appreciate the fact that none
-of our teachers are full-time - they are all consultants doing “real
-world” stuff as well.
+often hear things like "I signed up for this course because my colleague
+insisted I should go!" Participants also appreciate the fact that none
+of our teachers are full-time - they are all consultants doing "real
+world" stuff as well.
 
 Nevertheless, we do expect new and experimental courses (or less
 experienced teachers) to start with a lower NPS. And there’s no shame in

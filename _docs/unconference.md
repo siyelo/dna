@@ -43,7 +43,7 @@ in some interesting European city, like Barcelona or Rome or Istanbul).
 ## Does everyone have to attend?
 
 More or less, yes. We haven’t made it a formal rule, but implicitly
-people are expected to attend “most” conferences (sometimes Life gets in
+people are expected to attend "most" conferences (sometimes Life gets in
 the way of course). This is our most important team activity, and all
 high-impact decisions happen there. We also get to know each other
 better, build trust, trade knowledge, and have lots of fun!
@@ -53,8 +53,8 @@ evolves!
 
 The conference cost (travel, hotel, etc) is split evenly between all
 consultants, whether or not you attend. That way there’s not much
-economic incentive to skip the conference (as in “I’m a bit low on cash
-now, so I’m skipping the conference”). You pay either way so you might
+economic incentive to skip the conference (as in "I’m a bit low on cash
+now, so I’m skipping the conference"). You pay either way so you might
 as well attend :)
 
 In practice attendance has not been a problem so far. We usually have at
@@ -70,9 +70,9 @@ Most of our conference is based on the [Open
 Space](http://en.wikipedia.org/wiki/Open_Space_Technology) format.
 
 That means the only real rule is the **Law of 2 feet**. Our version of
-it is: **“if you aren’t contributing or learning or having fun where you
+it is: **"if you aren’t contributing or learning or having fun where you
 stand now, use your two feet (and go somewhere where you can contribute
-or learn or have fun)!”**
+or learn or have fun)!"**
 
 Other guiding principles (we vary them a bit, but this should give you
 the general idea):
@@ -135,7 +135,7 @@ grid, and ask people to suggest topics and write on stickies.
 Ask the people who suggested topics to organize them into the schedule
 grid. Left-to-right are all the locations in the room, and up-to-down
 are all the time slots (usually 30-60 minutes each). And a small section
-to capture “mini-topics” for when we all gather at the end.
+to capture "mini-topics" for when we all gather at the end.
 
 ![Creating the schedule grid](../assets/crisp/Unconference-Schedule.jpg "Creating the schedule grid")
 

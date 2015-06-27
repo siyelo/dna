@@ -24,7 +24,7 @@ fee is 10% + €500/month.
 3.  The [office team](office-team.html) sends a €10,000 invoice from
     Siyelo to Initech, for Joe’s services.
 4.  Joe sends a €9,000 invoice from his personal company to Siyelo
-    (€10,000 minus the 10% Siyelo “tax”).
+    (€10,000 minus the 10% Siyelo "tax").
 
 **Result for January:**
 Initech pays €10,000, Joe earns €9,000, Siyelo earns €1,000.
@@ -99,14 +99,14 @@ What if a consultant can’t find a client for an extended period? Or what
 if a client suddenly goes bankrupt and doesn’t pay? What if a consultant
 gets seriously sick?
 
-In a “normal” consulting company, consultants get their salary every
+In a "normal" consulting company, consultants get their salary every
 month and the employer needs to prepare for risks using things like cash
 buffers and insurances. But Siyelo is more like a bunch of collaborating
 independents, and we leave it up to each individual to manage risk and
 insurance in their own company.
 
-Nevertheless it may sound obvious that Siyelo should provide a “rainy
-day insurance” for each consultant, a shared cash buffer to support a
+Nevertheless it may sound obvious that Siyelo should provide a "rainy
+day insurance" for each consultant, a shared cash buffer to support a
 consultant who runs into sudden cash flow problems. But that money needs
 to come from somewhere, and will in one way or another cause the Siyelo
 fee to increase.
@@ -120,12 +120,12 @@ managing their money, while others are sloppier.
 As a result, our discussions always end up with people divided into two
 camps:
 
--   **Yes**: “An insurance will increase my freedom and security,
+-   **Yes**: "An insurance will increase my freedom and security,
     because Siyelo will help me if I run into temporary cash
-    flow problems.”
--   **No**: “An insurance will decrease my freedom and security, because
+    flow problems."
+-   **No**: "An insurance will decrease my freedom and security, because
     of the increased fees. I manage risk fine today by saving cash and
-    minimizing unnecessary expenses.”
+    minimizing unnecessary expenses."
 
 This is where our [explicitly stated core values](what-is-siyelo.html)
 come into use. Freedom is a core value, financial stability isn’t. That
@@ -135,11 +135,11 @@ freedom to choose your own risk-management approach.
 
 This reasoning always leads us to the same conclusion:
 
--   **Compromise**: “Some people want a shared insurance, some don’t.
+-   **Compromise**: "Some people want a shared insurance, some don’t.
     Therefore we won’t force it upon everyone. Instead, those
     individuals who want an insurance (and are willing to pay for it)
     can get together and form one together. That way, insurance
-    is opt-in.”
+    is opt-in."
 
 So anyone who wants to do risk-pooling is free to propose a model and
 see if anyone wants to join, but insurance isn’t owned or managed by
@@ -149,12 +149,12 @@ Interestingly enough, no such generic insurance has been created yet,
 because nobody has managed to define a model that is good enough to
 attract a critical mass of participants.
 
-> The closest thing we have is the “10k club”, an opt-in risk pool
+> The closest thing we have is the "10k club", an opt-in risk pool
 > designed to handle the specific case where a client doesn’t pay your
 > invoice (because the client has cash-flow problems, or is being evil).
-> As member of the 10k club you say “If another Siyeloer doesn’t get
+> As member of the 10k club you say "If another Siyeloer doesn’t get
 > paid for his/her job, I’m willing to donate SEK 10,000. Unless it
-> happens too often, or I can’t afford to pay right now.” Note that the
+> happens too often, or I can’t afford to pay right now." Note that the
 > 10k club supports everyone at Siyelo, not just other members (the idea
 > is that, if someone outside the club receives payout, they will be
 > morally inclined to join the club afterwards). As of 2014 we had 9

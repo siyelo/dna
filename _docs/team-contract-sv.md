@@ -19,7 +19,7 @@ deltagande i Siyelo team.
 
 ## Siyelo Team
 
-CT medlemmen förbinder sig att betala fastställd ”team”- avgift till
+CT medlemmen förbinder sig att betala fastställd "team"- avgift till
 Siyelo samt att efter bästa möjliga förmåga delta i teamets aktiviteter.
 Vidare skall CT-medlemmen marknadsföra och fakturera via Siyelo.
 Undantag tas från fall till fall upp med och be-viljas av styrelsen.

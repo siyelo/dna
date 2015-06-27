@@ -61,14 +61,14 @@ it becomes a Moose head!
 
 ## How is this intended to be used?
 
-The policy lives in a google doc and has been “signed” by about 80% of
+The policy lives in a google doc and has been "signed" by about 80% of
 the Siyeloers so far (as of Jan 2015)
 
-Signing the doc is a personal commitment - “I intend to follow this
-process”. It also acts as a “permission” to hold each other accountable
-for following the process. That way we can help remind each other - “Hey
+Signing the doc is a personal commitment - "I intend to follow this
+process". It also acts as a "permission" to hold each other accountable
+for following the process. That way we can help remind each other - "Hey
 Joe, I hear you complaining about Lisa. So are you going to bring it up
-with Lisa, or let it go?”
+with Lisa, or let it go?"
 
 We don’t force anyone to sign, but part of the experiment is to see how
 many will :o)

@@ -41,15 +41,15 @@ we’re lazy and go for the safe bets.
 
 Our minimum bar is:
 
-1.  The candidate is “konsultmässig” (roughly translates to “a great
-    consultant”). That is, we are confident that the candidate will have
+1.  The candidate is "konsultmässig" (roughly translates to "a great
+    consultant"). That is, we are confident that the candidate will have
     happy clients.
 2.  The candidate is social, and we must actually *like* the person and
     look forward to hanging out together for years, or even decades.
 3.  At least one us has worked with the candidate before (and can
     therefore testify to the first two points). We want someone to say
-    “Hey, I’ve worked with her before, she’s awesome! We’d be IDIOTS not
-    to let her join!”
+    "Hey, I’ve worked with her before, she’s awesome! We’d be IDIOTS not
+    to let her join!"
 
 This considerably limits the number of applicants.
 
@@ -129,14 +129,14 @@ It’s quite simple:
     Then organize interviews and tests and whatever else she
     deems necessary. She might invite X to join the next [hack
     summit](hack-summit.html).
-3.  If Y thinks X is suitable, she emails all Siyeloers: “I think X
-    should be a Siyeloer, because \[reasons\]. Anyone against?”.
+3.  If Y thinks X is suitable, she emails all Siyeloers: "I think X
+    should be a Siyeloer, because \[reasons\]. Anyone against?".
 4.  If no response comes within a few days, the decision is done!
     Otherwise, if people have doubts or questions, keep repeating points
     2-3 until the candidate is accepted or rejected.
 
-All active candidates have a “puller”, in this case Mrs Y. That’s our
-internal term for the person “pulling” an initiative and making sure
+All active candidates have a "puller", in this case Mrs Y. That’s our
+internal term for the person "pulling" an initiative and making sure
 things move forward, and that the candidate is well-treated. Similar to
 the bun holder in our [bun protocol](bun-protocol.html).
 

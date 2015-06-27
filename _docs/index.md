@@ -28,7 +28,7 @@ example:
     practice a non-profit company (although not formally so).
     Consultants [keep most of what they earn](economic-model.html).
 -   Our [ownership model](ownership-model.html) is designed to keep our
-    stock financially worthless. There is no incentive to “cash in”.
+    stock financially worthless. There is no incentive to "cash in".
 -   Consultants are 100% autonomous. They can do whatever they want (as
     long as they don’t hurt the brand or [our
     house](what-is-siyelo.html)), and work as much or as little as

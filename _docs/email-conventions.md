@@ -9,10 +9,10 @@ next_section: hand-signals.html
 
 How do we get transparency without email overflow?
 
-Answer: a single mailing list (the “team list”), plus a few simple
+Answer: a single mailing list (the "team list"), plus a few simple
 subject line conventions to sort out important stuff from chatter.
 
-By default, reading team mail is optional. The only “must-reads” are the
+By default, reading team mail is optional. The only "must-reads" are the
 ones with OBS or RAR in the subject.
 
 > We’ve had this convention for many years and it works great, because
@@ -23,9 +23,9 @@ ones with OBS or RAR in the subject.
 > receivers*, right? So we save a lot of time if we burden the sender
 > rather than the receivers.
 
-## OBS = “Read this!”
+## OBS = "Read this!"
 
-> OBS stands for “Observe![](", i.e. "Hey check this out)”
+> OBS stands for "Observe![](", i.e. "Hey check this out)"
 
 So OBS is basically an announcement. Everyone should read it, but no
 response is needed.
@@ -35,9 +35,9 @@ Examples:
 -   OBS: Date for next conference
 -   OBS: New Siyelolet started
 
-## RAR = “Read and respond!”
+## RAR = "Read and respond!"
 
-> RAR stands for “Read and Respond”. For this, we really do want a
+> RAR stands for "Read and Respond". For this, we really do want a
 > response (or at least an action)
 
 Examples:
@@ -49,7 +49,7 @@ Sometimes an RAR has a deadline:
 
 -   RAR 12 Sep: Sign the updated team contract
 
-## BUN = “Heads up, here’s a bun!”
+## BUN = "Heads up, here’s a bun!"
 
 > We use the [Bun Protocol](bun-protocol.html) to route client requests.
 
@@ -57,7 +57,7 @@ These emails are optional, they are mostly for people looking for a new
 gig. Anyone who gets a client request that they can’t take themselves
 will usually send a BUN email. The BUN prefix means we are applying the
 [Bun Protocol](bun-protocol.html), so we try to be really clear and
-write things like “I’m taking this bun”.
+write things like "I’m taking this bun".
 
 Examples:
 
@@ -81,7 +81,7 @@ filters to separate out the unimportant stuff. Gmail example:
 The filter will identify any email that is sent to the team list, and
 not directly to me, and doesn’t have OBS/RAR/BUN in the Subject. For
 these emails, configure Gmail to skip the Inbox and apply the label
-“crisp”. That way you could respond quickly to OBS/RAR/BUN and then
+"crisp". That way you could respond quickly to OBS/RAR/BUN and then
 cherry-pick among the other emails at your leisure.
 
 Some do this, while others skip the filter and read all team email. It’s
@@ -136,10 +136,10 @@ they’ve stuck around.
 
 -   **BOAST**: "I’m proud of something and want to boast a
     bit![](". If you're proud of something, why not sing it out loud and get some pats on the back)
--   **OFFTOPIC**: “This doesn’t really have anything to do with Siyelo,
-    but what the heck…”
--   **PROOFREAD**: “Please proofread my article & help me improve it”
--   **DIARY**: “Here’s what’s going on in my life right now”. Always
+-   **OFFTOPIC**: "This doesn’t really have anything to do with Siyelo,
+    but what the heck…"
+-   **PROOFREAD**: "Please proofread my article & help me improve it"
+-   **DIARY**: "Here’s what’s going on in my life right now". Always
     interesting to read!
--   **HELP**: “I need help!”
+-   **HELP**: "I need help!"
 

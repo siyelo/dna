@@ -55,7 +55,7 @@ essentially gives the rest of the group permission to decide without me.
 > In the past we used to have just 3 signals: thumb-up, thumb-sideways,
 > thumb-down. It worked, but we realized that thumb-sideways was a bit
 > ambiguous. We introduced the fist-forward signal too visually
-> distinguish between “I need more info” vs “I don’t care about this”.
+> distinguish between "I need more info" vs "I don’t care about this".
 > The thumb-sideways people need to be heard, the fist-forward people
 > don’t. For the full story behind this shift, see the blog post [Crisp
 > consensus model
@@ -88,8 +88,8 @@ that case two hands up puts you first in the speaking queue.
 
 ![](../assets/crisp/HandSignal-Agree.png)
 
-The circling finger is a silent way of saying “Amen bro![]() I’m right
-wit’cha on dat!”
+The circling finger is a silent way of saying "Amen bro![]() I’m right
+wit’cha on dat!"
 
 Feels pretty good to see a bunch of circling fingers as you present your
 opinion on something (as opposed to arms crossed and frowning…)!
@@ -101,7 +101,7 @@ facilitator is usually needed to support the decision making process.
 The details will vary, but here’s a typical scenario for an important
 decision that will affect many people:
 
-1.  Someone (the decision “driver”) brings up a concrete proposal
+1.  Someone (the decision "driver") brings up a concrete proposal
     (usually coming out of an open-space session)
 2.  A first voting round is made using the decision signals.
 3.  If all thumbs are up, the decision is made! Some may stand aside,
@@ -135,9 +135,9 @@ on sticky-notes. People could move their names up and down into the
 different hand-signal boxes to show how they feel about each vision
 statement.
 
-The people in the “No” boxes were asked to explain their objection - do
+The people in the "No" boxes were asked to explain their objection - do
 they dislike the vision itself, or just how it is phrased? The people in
-the “Discuss” were invited to ask questions for clarification.
+the "Discuss" were invited to ask questions for clarification.
 
 ![](../assets/crisp/HandSignals-MultivotingPeople.png)
 

@@ -7,7 +7,7 @@ next_section: ownership-model.html
 
 # Happiness Index
 
-Our primary metric is the “Siyelo Happiness Index”. It’s the only thing
+Our primary metric is the "Siyelo Happiness Index". It’s the only thing
 we systemically measure and follow up. Scale is 1-5. The data lives in
 our [dashboard](dashboard.html) (a shared Google spreadsheet).
 
@@ -61,7 +61,7 @@ The scale is:
 > high-trust culture and people are pretty uninhibited about expressing
 > their thoughts and opinions.
 
-We also have a “last updated” column where people enter the date as they
+We also have a "last updated" column where people enter the date as they
 update their numbers. When many entries start looking old (as in &gt; 2
 months) then we’ll usually start nagging each other to update it.
 Especially a few days before a conference or board meeting, since we use

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “How to clone the Siyelo DNA”
+title: "How to clone the Siyelo DNA"
 prev_section: brand-building.html
 next_section:
 ---
@@ -48,7 +48,7 @@ the [siyelo dna repo](https://github.com/siyelo/dna) on github.
 Something like this:
 
 1.  Surf to <http://github.com/siyelo/dna>.
-2.  Press the “Fork” button on the top right somewhere (here’s a [direct
+2.  Press the "Fork" button on the top right somewhere (here’s a [direct
     link](https://github.com/siyelo/dna/fork)).
 3.  You should now have your own copy of the crisp dna!
 4.  Start editing! The articles are all in the _docs folder, and the
@@ -100,8 +100,8 @@ can’t guarantee it. Remember, we’re all volunteers :)
 
 If you have a question feel free to [File an
 issue](https://github.com/siyelo/dna/issues/new) on the siyelo-dna repo
-(pick the “question” label to the right). No response guaranteed though.
+(pick the "question" label to the right). No response guaranteed though.
 
-If you have a general comment (for example “Wow, Awesome!”) then the
+If you have a general comment (for example "Wow, Awesome!") then the
 best place is probably on the [blog post announcing this
 launch](http://blog.crisp.se/2015/01/23/maxwenzin/siyelo-dna-is-now-open-source).

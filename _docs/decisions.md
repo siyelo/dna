@@ -37,14 +37,14 @@ decisions. If that was the case, the world would stand still :)
 Instead, we follow these principles/guidelines:
 
 -   **The person driving an issue owns the decision process.**
--   **A decision is only a decision if there is a “puller” who follows
-    up on the execution.** (we use the term “driver” and
-    “puller” interchangeably)
+-   **A decision is only a decision if there is a "puller" who follows
+    up on the execution.** (we use the term "driver" and
+    "puller" interchangeably)
 -   **Important decisions should be documented in our [decision
     log](dashboard.html) and emailed to everyone**
--   Some decisions lead to funded “projects”, like our new website. The
+-   Some decisions lead to funded "projects", like our new website. The
     people involved in something like that form a Siyelolet. To get
-    funding, there needs to be two “pullers” throughout the
+    funding, there needs to be two "pullers" throughout the
     whole project. In practice, we seldom have big projects and rarely
     need to use this model.
 
@@ -56,17 +56,17 @@ process.
 the one driving that question and I pick the decision process.
 
 > **Meta:** So how did we decide on this decision-making process?
-> Henrik: “Well, we didn’t. I just noticed that people sometimes ask ‘so
+> Henrik: "Well, we didn’t. I just noticed that people sometimes ask ‘so
 > how do we make decisions’ and I started thinking about how it appeared
 > to work, and wrote a wiki page describing it. Then I had a followup
 > meeting to check if this is how we really work, and if this is how we
 > want to continue working, and the answer was pretty much Yes on both
-> counts.”
+> counts."
 
 ## How do I pick a decision process?
 
 Here are some examples of different decisions processes on a scale from
-“fast” to “well-anchored”.
+"fast" to "well-anchored".
 
 -   **Own decision**. Decide yourself without talking to anyone.
 -   **Own decision with team input**. Ask for input from the team, but
@@ -78,8 +78,8 @@ Here are some examples of different decisions processes on a scale from
     consensus, with majority vote as fallback if we can’t
     reach consensus).
 
-The term “team” in this case really means “those who are affected by the
-decision”. Sometimes the whole team, sometimes just a few individuals.
+The term "team" in this case really means "those who are affected by the
+decision". Sometimes the whole team, sometimes just a few individuals.
 
 These decisions processes can be combined. For example, start by getting
 input from the whole team, then suggest a decision and anchor with those
@@ -98,7 +98,7 @@ Some things to consider when choosing a decisions process:
 -   **How important is this question to you?** How important is it to
     those who are affected? Is it a critical decision or trivial one?
 -   **Is the decision reversible?** Most decisions are. What is the
-    consequence of making the “wrong” decision, and who is affected by
+    consequence of making the "wrong" decision, and who is affected by
     that?
 -   **How easy or hard is the decision?** How easy is it to reach
     consensus with all people affected?
@@ -114,13 +114,13 @@ Some things to consider when choosing a decisions process:
 
 Sample decisions:
 
--   “Should I arrange a free seminar with Lyssa Adkins” =&gt; **Own
+-   "Should I arrange a free seminar with Lyssa Adkins" =&gt; **Own
     decision**. Just do it.
--   “Which color should we have on the Siyelo cup?” =&gt; **Own decision
+-   "Which color should we have on the Siyelo cup?" =&gt; **Own decision
     with team input**.
--   “How often should we do Siyelo unconferences?” =&gt; **Own decision
+-   "How often should we do Siyelo unconferences?" =&gt; **Own decision
     with team anchoring**.
--   “Should we divided the company into two business units?” =&gt;
+-   "Should we divided the company into two business units?" =&gt;
     **Team decision**.
 
 At the end of the day it’s about balancing risk. If you make the
@@ -130,17 +130,17 @@ decision with better support, but it could take time – especially for
 questions where people have opposing opinions.
 
 There is no perfect process, so seek a balance between these extremes!
-We most often end up in the middle of the scale – “own decision with
-team input” or “own decision with team anchoring” (where “team” isn’t
+We most often end up in the middle of the scale – "own decision with
+team input" or "own decision with team anchoring" (where "team" isn’t
 necessarily the whole team)
 
 ## What if I still feel unsure of which decision process to use?
 
 Here are some options:
 
--   **Take a chance!** “Better to ask for forgiveness than permission”.
+-   **Take a chance!** "Better to ask for forgiveness than permission".
     Most decisions are reversible, so you don’t really need to be afraid
-    of making the “wrong” decision or using the “wrong”
+    of making the "wrong" decision or using the "wrong"
     decision process. Just accept feedback and learn.
 -   **Talk to a Siyelo colleague**, for example someone who has been
     around longer and can give examples of what has worked in the past.
@@ -152,8 +152,8 @@ Here are some options:
     pair-drive a decision, so you can always ask on the team mailing
     list to find a co-driver.
 -   **Escalate the decision** to the [board of directors](board.html).
-    For example “hey board, I want to change our recruiting process, how
-    would we make a decision like that?”. We try to minimize the number
+    For example "hey board, I want to change our recruiting process, how
+    would we make a decision like that?". We try to minimize the number
     of decisions that have to be made by the board, but they can give
     useful input about who needs to be involved.
 
