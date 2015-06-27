@@ -5,7 +5,7 @@ prev_section: brand-building.html
 next_section:
 ---
 
-# How to clone the Siyelo (Crisp) DNA
+# How to clone the Siyelo DNA
 
 The Siyelo DNA is [open-source on
 github](https://github.com/siyelo/dna), so you are welcome to copy it
